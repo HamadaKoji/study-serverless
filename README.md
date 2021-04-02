@@ -1,0 +1,2 @@
+# study-serverless
+サーバーレスモクモク用
